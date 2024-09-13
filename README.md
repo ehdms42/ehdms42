@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,60,90&height=150&section=header&text=Hello%20World!&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,60,90&height=150&section=header&text=Hello%20World!&fontSize=50" />
 </p>
 
 <h3 align="left">✨ Tech Stack </h3>
