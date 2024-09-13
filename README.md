@@ -28,5 +28,5 @@
 <br>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ehdms42&show_icons=true&theme=radical"/> 
-  <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=ehdms42&layout=Demo&theme=dracula">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehdms42&layout=compact"><br><br>
 </p>
